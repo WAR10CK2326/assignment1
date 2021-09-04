@@ -1,0 +1,10 @@
+1.) Create Repository in GitHub. 
+2.) Create master, develop, gallery, portfolio branch 
+3.) In portfolio branch add your portfolio 
+4.) In gallery branch add your gallery
+5.) merge gallery and portfolio to develop branch. 
+6.) Screenshot the commands you use. 
+7.) Screenshot the output of your assignment 
+8.) Put the screenshot in the word file and turn it here in google classroom 
+9.) Commit your local changes to the repository. 
+10.) Add the URL of your repository in the word document
